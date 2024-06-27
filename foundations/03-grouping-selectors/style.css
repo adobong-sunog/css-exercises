@@ -1,0 +1,14 @@
+.btn {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.btn.colblack {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.btn.colyellow {
+    background-color: yellow;
+}
